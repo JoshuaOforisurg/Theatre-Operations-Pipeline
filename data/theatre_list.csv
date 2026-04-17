@@ -1,0 +1,51 @@
+case_id,theatre_number,procedure_name,surgeon,anaesthetist,start_time,end_time,urgency,asa_score,patient_age
+1,10,Knee Arthroscopy,Dr Jones,Dr Grey,2024-01-01 08:19,2024-01-01 09:53,Elective,2,81
+2,3,Caesarean Section,Dr Ahmed,Dr Grey,2024-01-01 10:00,2024-01-01 12:02,Elective,4,47
+3,10,Hip Replacement,Dr Patel,Dr Black,2024-01-01 10:44,2024-01-01 13:33,Emergency,4,28
+4,3,Appendicectomy,Dr Patel,Dr Green,2024-01-01 09:38,2024-01-01 11:46,Emergency,2,57
+5,4,Appendicectomy,Dr Smith,Dr White,2024-01-01 12:25,2024-01-01 14:59,Elective,1,42
+6,5,Laparoscopic Cholecystectomy,Dr Jones,Dr Blue,2024-01-01 13:57,2024-01-01 15:59,Elective,2,42
+7,2,Laparoscopic Cholecystectomy,Dr Patel,Dr White,2024-01-01 14:15,2024-01-01 16:10,Emergency,3,63
+8,9,Knee Arthroscopy,Dr Jones,Dr Blue,2024-01-01 12:09,2024-01-01 13:08,Elective,3,26
+9,10,Laparoscopic Cholecystectomy,Dr Smith,Dr White,2024-01-01 14:38,2024-01-01 15:39,Elective,1,33
+10,8,Appendicectomy,Dr Brown,Dr Blue,2024-01-01 14:27,2024-01-01 17:18,Emergency,2,57
+11,9,Knee Arthroscopy,Dr Smith,Dr Black,2024-01-01 08:44,2024-01-01 10:00,Elective,2,84
+12,5,Knee Arthroscopy,Dr Jones,Dr Blue,2024-01-01 10:47,2024-01-01 11:47,Elective,4,54
+13,10,Caesarean Section,Dr Brown,Dr Blue,2024-01-01 12:08,2024-01-01 14:37,Emergency,2,54
+14,3,Caesarean Section,Dr Ahmed,Dr Blue,2024-01-01 16:53,2024-01-01 18:40,Elective,2,90
+15,5,Hip Replacement,Dr Ahmed,Dr Green,2024-01-01 15:19,2024-01-01 16:34,Elective,4,88
+16,2,Appendicectomy,Dr Brown,Dr Green,2024-01-01 12:05,2024-01-01 12:56,Elective,2,58
+17,2,Laparoscopic Cholecystectomy,Dr Smith,Dr Black,2024-01-01 09:09,2024-01-01 10:10,Emergency,2,78
+18,6,Hip Replacement,Dr Ahmed,Dr Green,2024-01-01 14:23,2024-01-01 17:05,Emergency,4,73
+19,8,Hip Replacement,Dr Ahmed,Dr Green,2024-01-01 16:58,2024-01-01 18:04,Emergency,4,41
+20,1,Hip Replacement,Dr Jones,Dr Grey,2024-01-01 17:48,2024-01-01 19:56,Emergency,3,41
+21,6,Knee Arthroscopy,Dr Brown,Dr Black,2024-01-01 09:20,2024-01-01 10:14,Emergency,4,51
+22,4,Laparoscopic Cholecystectomy,Dr Ahmed,Dr Blue,2024-01-01 10:14,2024-01-01 10:49,Emergency,1,59
+23,10,Laparoscopic Cholecystectomy,Dr Ahmed,Dr Grey,2024-01-01 10:17,2024-01-01 12:55,Emergency,4,31
+24,6,Caesarean Section,Dr Smith,Dr Blue,2024-01-01 11:50,2024-01-01 14:14,Elective,3,22
+25,3,Laparoscopic Cholecystectomy,Dr Patel,Dr Blue,2024-01-01 16:05,2024-01-01 17:17,Emergency,1,41
+26,8,Appendicectomy,Dr Brown,Dr Black,2024-01-01 17:24,2024-01-01 20:07,Emergency,5,72
+27,4,Hip Replacement,Dr Jones,Dr Green,2024-01-01 08:04,2024-01-01 09:16,Emergency,5,79
+28,2,Knee Arthroscopy,Dr Brown,Dr Blue,2024-01-01 15:10,2024-01-01 17:09,Emergency,2,18
+29,4,Knee Arthroscopy,Dr Brown,Dr Grey,2024-01-01 12:43,2024-01-01 15:42,Emergency,3,38
+30,9,Caesarean Section,Dr Patel,Dr Black,2024-01-01 17:25,2024-01-01 19:37,Elective,4,86
+31,1,Hip Replacement,Dr Brown,Dr White,2024-01-01 16:23,2024-01-01 17:20,Emergency,2,69
+32,7,Caesarean Section,Dr Smith,Dr Blue,2024-01-01 14:55,2024-01-01 17:51,Emergency,5,77
+33,1,Knee Arthroscopy,Dr Smith,Dr Black,2024-01-01 08:30,2024-01-01 11:05,Emergency,5,64
+34,10,Hip Replacement,Dr Ahmed,Dr Green,2024-01-01 11:41,2024-01-01 13:19,Emergency,1,85
+35,8,Laparoscopic Cholecystectomy,Dr Ahmed,Dr Green,2024-01-01 16:55,2024-01-01 18:36,Elective,1,62
+36,10,Appendicectomy,Dr Ahmed,Dr Blue,2024-01-01 10:15,2024-01-01 10:54,Emergency,3,31
+37,7,Appendicectomy,Dr Jones,Dr Green,2024-01-01 10:12,2024-01-01 13:12,Emergency,3,33
+38,10,Laparoscopic Cholecystectomy,Dr Smith,Dr Grey,2024-01-01 17:51,2024-01-01 19:16,Elective,2,45
+39,4,Laparoscopic Cholecystectomy,Dr Patel,Dr Green,2024-01-01 17:58,2024-01-01 20:56,Emergency,1,85
+40,1,Laparoscopic Cholecystectomy,Dr Brown,Dr Black,2024-01-01 08:48,2024-01-01 09:19,Elective,4,54
+41,9,Hip Replacement,Dr Ahmed,Dr Grey,2024-01-01 12:12,2024-01-01 13:27,Elective,2,90
+42,8,Appendicectomy,Dr Ahmed,Dr Grey,2024-01-01 14:49,2024-01-01 17:09,Emergency,1,66
+43,8,Caesarean Section,Dr Patel,Dr Blue,2024-01-01 12:29,2024-01-01 13:42,Elective,5,75
+44,1,Appendicectomy,Dr Patel,Dr Black,2024-01-01 16:29,2024-01-01 19:07,Emergency,5,55
+45,6,Hip Replacement,Dr Smith,Dr Black,2024-01-01 12:01,2024-01-01 13:54,Elective,1,55
+46,2,Appendicectomy,Dr Ahmed,Dr Black,2024-01-01 14:39,2024-01-01 15:58,Elective,1,53
+47,9,Knee Arthroscopy,Dr Ahmed,Dr Grey,2024-01-01 12:52,2024-01-01 15:04,Elective,1,21
+48,4,Knee Arthroscopy,Dr Patel,Dr Blue,2024-01-01 16:09,2024-01-01 17:37,Emergency,5,26
+49,10,Hip Replacement,Dr Brown,Dr White,2024-01-01 08:09,2024-01-01 09:23,Emergency,3,35
+50,1,Laparoscopic Cholecystectomy,Dr Ahmed,Dr Black,2024-01-01 14:28,2024-01-01 17:17,Emergency,5,64
