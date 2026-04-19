@@ -1,0 +1,31 @@
+2026-04-18 19:13:15,229 - INFO - Pipeline started
+2026-04-18 19:13:15,230 - ERROR - Pipeline failed: [Errno 2] No such file or directory: 'data/theatre_list.csv'
+2026-04-18 19:14:48,682 - INFO - Pipeline started
+2026-04-18 19:14:48,683 - ERROR - Pipeline failed: [Errno 2] No such file or directory: 'data/theatre_list.csv'
+2026-04-18 19:20:49,891 - INFO - Pipeline started
+2026-04-18 19:20:49,897 - INFO - Ingested 50 rows
+2026-04-18 19:20:49,911 - INFO - Transformation complete
+2026-04-18 19:20:49,911 - ERROR - Pipeline failed: Missing required columns: ['patient_id']
+2026-04-19 14:12:40,463 - INFO - Pipeline started
+2026-04-19 14:12:40,492 - INFO - Ingested 50 rows
+2026-04-19 14:12:40,524 - INFO - Transformation complete
+2026-04-19 14:12:40,525 - ERROR - Pipeline failed: Missing required columns: ['patient_id']
+2026-04-19 14:12:48,278 - INFO - Pipeline started
+2026-04-19 14:12:48,280 - INFO - Ingested 50 rows
+2026-04-19 14:12:48,286 - INFO - Transformation complete
+2026-04-19 14:12:48,287 - ERROR - Pipeline failed: Missing required columns: ['patient_id']
+2026-04-19 14:17:30,015 - INFO - Pipeline started
+2026-04-19 14:17:30,059 - INFO - Ingested 50 rows
+2026-04-19 14:17:30,160 - INFO - Transformation complete
+2026-04-19 14:17:30,175 - INFO - Validation passed
+2026-04-19 14:17:30,517 - INFO - Load complete
+2026-04-19 14:20:49,173 - INFO - Pipeline started
+2026-04-19 14:20:49,175 - INFO - Ingested 50 rows
+2026-04-19 14:20:49,181 - INFO - Transformation complete
+2026-04-19 14:20:49,183 - INFO - Validation passed
+2026-04-19 14:20:49,219 - INFO - Load complete
+2026-04-19 14:21:20,348 - INFO - Pipeline started
+2026-04-19 14:21:20,351 - INFO - Ingested 50 rows
+2026-04-19 14:21:20,356 - INFO - Transformation complete
+2026-04-19 14:21:20,358 - INFO - Validation passed
+2026-04-19 14:21:20,392 - INFO - Load complete

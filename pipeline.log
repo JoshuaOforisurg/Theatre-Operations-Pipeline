@@ -1,0 +1,4 @@
+2026-04-18 19:13:57,223 - INFO - Pipeline started
+2026-04-18 19:13:57,232 - INFO - Ingested 50 rows
+2026-04-18 19:13:57,244 - INFO - Transformation complete
+2026-04-18 19:13:57,245 - ERROR - Pipeline failed: Missing required columns: ['patient_id']
