@@ -43,7 +43,9 @@ def generate_case(case_id):
     anaesthetist = random.choice(anaesthetists)
     theatre_number = random.randint(1, 10)
 
-    start = datetime(2024, 1, 1, 8, 0) + timedelta(minutes=random.randint(0, 600))
+    random_days = random.randint(0,30)
+    random_minutes = random.randint(0,600)
+    start = datetime(2024, 1, 1, 8, 0) + timedelta(day=random_days, minutes=random_minutes)
     duration = random.randint(30, 180)
     end = start + timedelta(minutes=duration)
 
