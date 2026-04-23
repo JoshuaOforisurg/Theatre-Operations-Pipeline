@@ -45,7 +45,7 @@ def generate_case(case_id):
 
     random_days = random.randint(0,30)
     random_minutes = random.randint(0,600)
-    start = datetime(2024, 1, 1, 8, 0) + timedelta(day=random_days, minutes=random_minutes)
+    start = datetime(2024, 1, 1, 8, 0) + timedelta(days=random_days, minutes=random_minutes)
     duration = random.randint(30, 180)
     end = start + timedelta(minutes=duration)
 
