@@ -32,6 +32,8 @@ theatre_operations_pipeline/
 │
 ├── data/
 │   └── theatre_list.csv
+        theatre_list.json
+    
 │
 ├── logs/
 │   └── pipeline.log
