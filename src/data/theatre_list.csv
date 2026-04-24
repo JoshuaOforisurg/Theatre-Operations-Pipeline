@@ -1,151 +1,151 @@
 case_id,theatre_number,procedure_name,surgeon,anaesthetist,start_time,end_time,urgency,asa_score,patient_age
-1,7,Epigastric Hernia Repair,Ms White,Dr West,2024-01-26 08:06,2024-01-26 09:16,Elective,3,31
-2,6,Epigastric Hernia Repair,Ms Berry,Dr Obrien,2024-01-03 14:29,2024-01-03 15:23,Elective,4,86
-3,9,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms Berry,Dr Phelps,2024-01-04 14:27,2024-01-04 15:17,Emergency,5,42
-4,4,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms Robles,Dr Gilmore,2024-01-23 09:11,2024-01-23 09:52,Elective,1,66
-5,3,Epigastric Hernia Repair,Mr Ballard,Dr Howard,2024-01-09 15:44,2024-01-09 17:47,Emergency,1,39
-6,8,Haemorrhoidectomy ,Ms White,Dr Phelps,2024-01-18 12:10,2024-01-18 13:21,Elective,3,25
-7,7,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms Robles,Dr Howard,2024-01-08 08:32,2024-01-08 10:22,Emergency,2,81
-8,5,Arthroscopic meniscal repair of knee,Mr Hawkins,Dr Cunningham,2024-01-13 15:49,2024-01-13 16:55,Emergency,5,72
-9,6,Cystoscopy + urethral dilation,Mr Cole,Dr Thompson,2024-01-29 17:57,2024-01-29 20:09,Emergency,1,24
-10,3,Haemorrhoidectomy ,Ms Berry,Dr Anderson,2024-01-28 09:52,2024-01-28 11:01,Emergency,4,77
-11,1,Hybrid Hip Replacement ( Cemented) ,Mr Brown,Dr Conrad,2024-01-17 12:17,2024-01-17 15:08,Emergency,3,32
-12,8,Laparoscopic Cholecystectomy,Ms White,Dr Thompson,2024-01-10 15:25,2024-01-10 16:35,Elective,5,31
-13,10,Cystoscopy + urethral dilation,Mr Cole,Dr Parker,2024-01-28 13:05,2024-01-28 15:44,Elective,5,85
-14,8,Laparoscopic Cholecystectomy,Mr Bishop,Dr Phelps,2024-01-30 08:00,2024-01-30 09:52,Emergency,3,48
-15,2,Hybrid Hip Replacement ( Cemented) ,Mr Luna,Dr Gilmore,2024-01-02 12:06,2024-01-02 15:01,Elective,5,34
-16,3,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms Hardin,Dr Gilmore,2024-01-05 16:06,2024-01-05 18:56,Emergency,2,87
-17,7,Epigastric Hernia Repair,Mr Herrera,Dr Phelps,2024-01-25 11:25,2024-01-25 13:14,Emergency,1,49
-18,1,Cystoscopy + urethral dilation,Ms Moore,Dr Howard,2024-01-08 09:05,2024-01-08 11:01,Elective,1,25
-19,6,Hybrid Hip Replacement ( Cemented) ,Ms Hardin,Dr Howard,2024-01-08 09:09,2024-01-08 09:47,Emergency,4,45
-20,10,Total Knee Replacement,Mr Hawkins,Dr Conrad,2024-01-18 10:15,2024-01-18 13:11,Emergency,4,42
-21,6,Haemorrhoidectomy ,Mr Ray,Dr Zimmerman,2024-01-04 09:39,2024-01-04 11:59,Elective,1,25
-22,4,Cystoscopy + urethral dilation,Mr Greene,Dr Thompson,2024-01-13 13:47,2024-01-13 14:44,Emergency,2,72
-23,4,Hybrid Hip Replacement ( Cemented) ,Mr Herrera,Dr Conrad,2024-01-06 12:45,2024-01-06 15:13,Elective,1,87
-24,4,Arthroscopic meniscal repair of knee,Mr Ray,Dr Zimmerman,2024-01-27 08:15,2024-01-27 09:08,Emergency,2,69
-25,7,Laparoscopic Cholecystectomy,Mr Kerr,Dr Obrien,2024-01-29 09:00,2024-01-29 10:12,Emergency,3,72
-26,3,Cystoscopy + urethral dilation,Mr Barrera,Dr Howard,2024-01-23 17:29,2024-01-23 20:03,Elective,5,87
-27,1,Total Knee Replacement,Ms Hardin,Dr Phelps,2024-01-02 13:21,2024-01-02 14:05,Elective,1,83
-28,10,Hybrid Hip Replacement ( Cemented) ,Mr Hawkins,Dr Smith,2024-01-03 11:10,2024-01-03 11:57,Elective,5,49
-29,7,Epigastric Hernia Repair,Ms White,Dr Howard,2024-01-19 08:40,2024-01-19 09:30,Emergency,2,51
-30,8,Epigastric Hernia Repair,Ms Robles,Dr Bartlett,2024-01-13 10:14,2024-01-13 12:00,Emergency,5,90
-31,4,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Mr Cole,Dr Phelps,2024-01-04 09:15,2024-01-04 12:02,Emergency,1,49
-32,8,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms Berry,Dr Conrad,2024-01-12 12:51,2024-01-12 14:01,Elective,5,56
-33,5,Hybrid Hip Replacement ( Cemented) ,Mr Bishop,Dr Cunningham,2024-01-30 09:46,2024-01-30 10:50,Elective,3,54
-34,4,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms Hardin,Dr Zimmerman,2024-01-20 11:35,2024-01-20 13:32,Emergency,1,29
-35,1,Laparoscopic Cholecystectomy,Mr Owens,Dr Conrad,2024-01-21 15:13,2024-01-21 16:53,Elective,3,38
-36,7,Laparoscopic Cholecystectomy,Mr Bishop,Dr Anderson,2024-01-24 15:32,2024-01-24 18:23,Elective,5,22
-37,9,Arthroscopic meniscal repair of knee,Mr Ray,Dr West,2024-01-27 14:18,2024-01-27 17:17,Elective,3,64
-38,4,Cystoscopy + urethral dilation,Mr Bishop,Dr Parker,2024-01-29 08:40,2024-01-29 10:41,Emergency,5,37
-39,3,Haemorrhoidectomy ,Mr Hart,Dr West,2024-01-30 12:02,2024-01-30 13:13,Emergency,4,49
-40,7,Laparoscopic Cholecystectomy,Mr Luna,Dr Howard,2024-01-09 10:43,2024-01-09 11:40,Elective,4,62
-41,1,Cystoscopy + urethral dilation,Mr Kerr,Dr Parker,2024-01-10 11:53,2024-01-10 13:20,Emergency,1,53
-42,9,Epigastric Hernia Repair,Mr Hart,Dr Anderson,2024-01-12 16:41,2024-01-12 18:53,Emergency,2,51
-43,6,Epigastric Hernia Repair,Mr Ray,Dr Harris,2024-01-02 09:51,2024-01-02 12:12,Elective,4,42
-44,1,Cystoscopy + urethral dilation,Mr Ballard,Dr Smith,2024-01-09 08:45,2024-01-09 11:06,Elective,3,58
-45,9,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Mr Ray,Dr Parker,2024-01-22 10:07,2024-01-22 11:53,Emergency,3,88
-46,7,Arthroscopic meniscal repair of knee,Ms Berry,Dr Harris,2024-01-05 11:16,2024-01-05 13:33,Emergency,4,88
-47,5,Cystoscopy + urethral dilation,Mr Ray,Dr Conrad,2024-01-27 08:00,2024-01-27 09:47,Emergency,4,74
-48,8,Arthroscopic meniscal repair of knee,Ms Robles,Dr Obrien,2024-01-15 11:38,2024-01-15 14:18,Emergency,1,48
-49,4,Arthroscopic meniscal repair of knee,Mr Hart,Dr Bartlett,2024-01-22 13:17,2024-01-22 14:44,Elective,4,27
-50,4,Haemorrhoidectomy ,Mr Luna,Dr Smith,2024-01-15 15:04,2024-01-15 18:01,Elective,2,18
-51,4,Arthroscopic meniscal repair of knee,Ms Hardin,Dr Zimmerman,2024-01-29 09:49,2024-01-29 12:07,Elective,5,49
-52,3,Total Knee Replacement,Ms Hardin,Dr Thompson,2024-01-30 10:04,2024-01-30 12:30,Emergency,4,82
-53,3,Total Knee Replacement,Mr Herrera,Dr Obrien,2024-01-14 17:21,2024-01-14 19:45,Elective,3,84
-54,8,Hybrid Hip Replacement ( Cemented) ,Mr Barrera,Dr Howard,2024-01-16 12:04,2024-01-16 13:44,Emergency,3,58
-55,3,Arthroscopic meniscal repair of knee,Mr Hawkins,Dr Smith,2024-01-29 17:13,2024-01-29 18:03,Elective,2,26
-56,9,Total Knee Replacement,Mr Ray,Dr Bartlett,2024-01-14 14:57,2024-01-14 16:51,Elective,4,67
-57,10,Haemorrhoidectomy ,Mr Luna,Dr Bartlett,2024-01-29 17:58,2024-01-29 18:33,Emergency,3,67
-58,9,Cystoscopy + urethral dilation,Mr Luna,Dr Howard,2024-01-28 15:09,2024-01-28 17:56,Emergency,4,80
-59,7,Arthroscopic meniscal repair of knee,Mr Herrera,Dr Phelps,2024-01-01 14:38,2024-01-01 16:34,Elective,5,86
-60,1,Hybrid Hip Replacement ( Cemented) ,Mr Ray,Dr West,2024-01-01 14:43,2024-01-01 17:37,Emergency,2,24
-61,4,Total Knee Replacement,Mr Owens,Dr Parker,2024-01-09 14:28,2024-01-09 16:21,Emergency,3,71
-62,1,Laparoscopic Cholecystectomy,Mr Ballard,Dr Howard,2024-01-09 09:23,2024-01-09 11:53,Elective,1,21
-63,1,Arthroscopic meniscal repair of knee,Mr Hawkins,Dr West,2024-01-31 12:13,2024-01-31 13:34,Emergency,1,90
-64,5,Epigastric Hernia Repair,Mr Miles,Dr Harris,2024-01-31 11:43,2024-01-31 14:12,Elective,2,57
-65,5,Haemorrhoidectomy ,Mr Kerr,Dr Cunningham,2024-01-04 17:52,2024-01-04 18:28,Elective,1,49
-66,10,Laparoscopic Cholecystectomy,Mr Ballard,Dr Thompson,2024-01-04 13:08,2024-01-04 14:08,Emergency,3,26
-67,7,Total Knee Replacement,Mr Bishop,Dr Smith,2024-01-17 13:49,2024-01-17 14:22,Emergency,4,37
-68,5,Total Knee Replacement,Mr Herrera,Dr Smith,2024-01-14 11:00,2024-01-14 13:43,Emergency,3,49
-69,8,Cystoscopy + urethral dilation,Mr Herrera,Dr Harris,2024-01-27 09:28,2024-01-27 11:09,Emergency,3,21
-70,8,Cystoscopy + urethral dilation,Mr Ballard,Dr Conrad,2024-01-16 13:32,2024-01-16 14:48,Emergency,3,53
-71,1,Cystoscopy + urethral dilation,Ms Robles,Dr Howard,2024-01-29 12:42,2024-01-29 15:34,Emergency,4,89
-72,8,Total Knee Replacement,Mr Hart,Dr Anderson,2024-01-25 12:06,2024-01-25 14:37,Emergency,2,69
-73,10,Epigastric Hernia Repair,Mr Luna,Dr Thompson,2024-01-23 12:09,2024-01-23 13:57,Emergency,4,88
-74,5,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms White,Dr Howard,2024-01-11 14:00,2024-01-11 16:26,Elective,2,58
-75,4,Cystoscopy + urethral dilation,Mr Luna,Dr Obrien,2024-01-04 17:08,2024-01-04 18:25,Emergency,1,42
-76,3,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Mr Hart,Dr Cunningham,2024-01-10 11:52,2024-01-10 13:54,Elective,3,23
-77,3,Total Knee Replacement,Mr Bishop,Dr Gilmore,2024-01-02 17:26,2024-01-02 19:10,Elective,5,54
-78,6,Arthroscopic meniscal repair of knee,Mr Duarte,Dr Obrien,2024-01-16 16:10,2024-01-16 18:32,Emergency,1,26
-79,10,Laparoscopic Cholecystectomy,Mr Cole,Dr West,2024-01-13 16:23,2024-01-13 17:11,Emergency,1,49
-80,10,Cystoscopy + urethral dilation,Ms Hardin,Dr Smith,2024-01-04 17:31,2024-01-04 19:47,Emergency,4,56
-81,10,Laparoscopic Cholecystectomy,Ms Berry,Dr Cunningham,2024-01-28 15:19,2024-01-28 17:07,Elective,2,45
-82,4,Arthroscopic meniscal repair of knee,Mr Brown,Dr Anderson,2024-01-09 09:23,2024-01-09 10:33,Elective,1,70
-83,1,Cystoscopy + urethral dilation,Mr Barrera,Dr Cunningham,2024-01-15 16:01,2024-01-15 17:45,Emergency,4,27
-84,10,Cystoscopy + urethral dilation,Mr Ray,Dr Anderson,2024-01-22 11:59,2024-01-22 13:36,Elective,2,52
-85,1,Arthroscopic meniscal repair of knee,Mr Barrera,Dr Harris,2024-01-27 10:25,2024-01-27 11:13,Emergency,4,33
-86,5,Total Knee Replacement,Mr Herrera,Dr Anderson,2024-01-15 13:11,2024-01-15 15:24,Elective,4,59
-87,2,Cystoscopy + urethral dilation,Ms Moore,Dr Harris,2024-01-20 12:16,2024-01-20 12:52,Elective,3,23
-88,9,Total Knee Replacement,Ms White,Dr West,2024-01-25 10:59,2024-01-25 13:29,Emergency,4,29
-89,6,Epigastric Hernia Repair,Mr Bishop,Dr Gilmore,2024-01-16 13:56,2024-01-16 16:10,Elective,3,70
-90,7,Laparoscopic Cholecystectomy,Mr Herrera,Dr Anderson,2024-01-23 16:27,2024-01-23 18:10,Emergency,3,59
-91,1,Total Knee Replacement,Mr Ray,Dr Bartlett,2024-01-04 14:53,2024-01-04 17:34,Elective,5,64
-92,1,Cystoscopy + urethral dilation,Ms White,Dr Thompson,2024-01-20 16:30,2024-01-20 18:53,Elective,3,74
-93,1,Cystoscopy + urethral dilation,Mr Miles,Dr Obrien,2024-01-29 16:16,2024-01-29 17:17,Elective,5,70
-94,8,Hybrid Hip Replacement ( Cemented) ,Mr Cole,Dr Zimmerman,2024-01-03 11:50,2024-01-03 12:49,Emergency,5,52
-95,4,Total Knee Replacement,Mr Brown,Dr West,2024-01-14 16:14,2024-01-14 18:44,Emergency,2,83
-96,5,Haemorrhoidectomy ,Mr Owens,Dr Phelps,2024-01-24 10:19,2024-01-24 11:06,Emergency,1,54
-97,10,Total Knee Replacement,Mr Cole,Dr Zimmerman,2024-01-24 13:05,2024-01-24 16:05,Emergency,3,60
-98,8,Epigastric Hernia Repair,Mr Greene,Dr Cunningham,2024-01-18 17:16,2024-01-18 19:22,Elective,5,67
-99,6,Total Knee Replacement,Mr Kerr,Dr Smith,2024-01-08 15:00,2024-01-08 15:41,Elective,4,22
-100,2,Total Knee Replacement,Mr Bishop,Dr Thompson,2024-01-05 16:34,2024-01-05 18:28,Emergency,1,36
-101,8,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Mr Owens,Dr Harris,2024-01-14 10:38,2024-01-14 11:27,Emergency,1,60
-102,6,Total Knee Replacement,Mr Brown,Dr Bartlett,2024-01-28 17:06,2024-01-28 19:13,Elective,2,54
-103,2,Hybrid Hip Replacement ( Cemented) ,Mr Herrera,Dr West,2024-01-08 09:32,2024-01-08 11:53,Emergency,1,23
-104,6,Epigastric Hernia Repair,Mr Ray,Dr West,2024-01-11 08:57,2024-01-11 10:42,Elective,5,70
-105,3,Hybrid Hip Replacement ( Cemented) ,Ms Berry,Dr Gilmore,2024-01-19 11:04,2024-01-19 12:17,Emergency,5,48
-106,4,Total Knee Replacement,Ms White,Dr Zimmerman,2024-01-16 17:57,2024-01-16 19:03,Emergency,1,77
-107,3,Hybrid Hip Replacement ( Cemented) ,Mr Herrera,Dr Parker,2024-01-29 12:54,2024-01-29 15:43,Emergency,4,50
-108,7,Total Knee Replacement,Mr Bishop,Dr Howard,2024-01-15 13:09,2024-01-15 14:29,Emergency,5,63
-109,1,Haemorrhoidectomy ,Ms White,Dr Bartlett,2024-01-19 13:02,2024-01-19 14:47,Elective,5,81
-110,10,Epigastric Hernia Repair,Mr Hawkins,Dr Jordan,2024-01-27 12:53,2024-01-27 14:21,Elective,5,50
-111,1,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Mr Herrera,Dr Bartlett,2024-01-22 10:20,2024-01-22 11:14,Emergency,2,29
-112,7,Arthroscopic meniscal repair of knee,Mr Greene,Dr West,2024-01-30 13:02,2024-01-30 14:55,Emergency,5,82
-113,5,Total Knee Replacement,Mr Barrera,Dr Cunningham,2024-01-30 12:39,2024-01-30 13:51,Emergency,1,77
-114,4,Haemorrhoidectomy ,Mr Brown,Dr Parker,2024-01-31 09:17,2024-01-31 10:23,Elective,4,19
-115,8,Epigastric Hernia Repair,Ms White,Dr Harris,2024-01-09 17:09,2024-01-09 18:10,Emergency,3,31
-116,1,Epigastric Hernia Repair,Ms Berry,Dr Howard,2024-01-22 11:59,2024-01-22 14:29,Elective,4,56
-117,3,Laparoscopic Cholecystectomy,Mr Duarte,Dr Obrien,2024-01-21 14:58,2024-01-21 15:57,Emergency,1,30
-118,7,Total Knee Replacement,Mr Ballard,Dr Jordan,2024-01-08 17:10,2024-01-08 18:14,Emergency,5,37
-119,8,Haemorrhoidectomy ,Ms White,Dr Bartlett,2024-01-29 15:04,2024-01-29 15:59,Emergency,2,74
-120,2,Epigastric Hernia Repair,Mr Brown,Dr Phelps,2024-01-15 12:01,2024-01-15 14:03,Emergency,1,68
-121,8,Hybrid Hip Replacement ( Cemented) ,Mr Greene,Dr Jordan,2024-01-09 11:14,2024-01-09 12:15,Elective,1,60
-122,4,Hybrid Hip Replacement ( Cemented) ,Mr Brown,Dr Howard,2024-01-08 10:08,2024-01-08 13:02,Elective,2,60
-123,5,Arthroscopic meniscal repair of knee,Mr Cole,Dr Thompson,2024-01-25 10:31,2024-01-25 11:01,Emergency,2,32
-124,1,Epigastric Hernia Repair,Mr Hawkins,Dr Harris,2024-01-22 08:26,2024-01-22 09:29,Emergency,1,40
-125,7,Hybrid Hip Replacement ( Cemented) ,Ms Robles,Dr Zimmerman,2024-01-09 08:53,2024-01-09 09:55,Emergency,3,83
-126,9,Cystoscopy + urethral dilation,Ms Berry,Dr Bartlett,2024-01-19 09:51,2024-01-19 12:16,Emergency,4,21
-127,7,Hybrid Hip Replacement ( Cemented) ,Mr Luna,Dr Cunningham,2024-01-02 16:10,2024-01-02 18:22,Emergency,1,28
-128,3,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms Berry,Dr Jordan,2024-01-11 10:31,2024-01-11 11:17,Emergency,4,85
-129,10,Haemorrhoidectomy ,Mr Bishop,Dr Conrad,2024-01-10 15:44,2024-01-10 18:23,Elective,5,45
-130,7,Epigastric Hernia Repair,Mr Herrera,Dr Smith,2024-01-14 15:42,2024-01-14 17:10,Emergency,1,58
-131,6,Arthroscopic meniscal repair of knee,Mr Luna,Dr Anderson,2024-01-14 13:20,2024-01-14 14:55,Elective,1,29
-132,3,Laparoscopic Cholecystectomy,Ms Moore,Dr Thompson,2024-01-14 09:38,2024-01-14 11:43,Emergency,1,70
-133,5,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Mr Ballard,Dr Anderson,2024-01-12 15:13,2024-01-12 15:56,Elective,2,79
-134,9,Epigastric Hernia Repair,Mr Bishop,Dr Conrad,2024-01-08 09:50,2024-01-08 11:49,Emergency,5,46
-135,10,Laparoscopic Cholecystectomy,Ms Berry,Dr Phelps,2024-01-26 15:19,2024-01-26 18:12,Emergency,1,41
-136,6,Laparoscopic Cholecystectomy,Mr Miles,Dr Gilmore,2024-01-09 13:16,2024-01-09 15:12,Elective,5,69
-137,2,Cystoscopy + urethral dilation,Mr Kerr,Dr Smith,2024-01-03 10:25,2024-01-03 11:02,Emergency,3,38
-138,10,Hybrid Hip Replacement ( Cemented) ,Mr Duarte,Dr West,2024-01-12 13:19,2024-01-12 15:12,Elective,5,24
-139,8,Haemorrhoidectomy ,Mr Luna,Dr Harris,2024-01-22 09:23,2024-01-22 11:02,Emergency,4,52
-140,6,Haemorrhoidectomy ,Mr Bishop,Dr Obrien,2024-01-07 16:44,2024-01-07 17:43,Emergency,5,57
-141,10,Laparoscopic Cholecystectomy,Mr Hart,Dr Howard,2024-01-02 11:45,2024-01-02 13:56,Emergency,2,35
-142,6,Hybrid Hip Replacement ( Cemented) ,Mr Hart,Dr Zimmerman,2024-01-25 12:21,2024-01-25 14:05,Emergency,2,34
-143,9,Epigastric Hernia Repair,Ms Robles,Dr Smith,2024-01-13 17:05,2024-01-13 18:33,Elective,4,20
-144,10,Haemorrhoidectomy ,Ms Moore,Dr Smith,2024-01-15 09:19,2024-01-15 11:09,Emergency,3,32
-145,3,Total Knee Replacement,Mr Ballard,Dr Anderson,2024-01-13 08:21,2024-01-13 10:14,Emergency,1,49
-146,2,Haemorrhoidectomy ,Mr Barrera,Dr Cunningham,2024-01-14 14:50,2024-01-14 17:34,Emergency,2,60
-147,9,Hybrid Hip Replacement ( Cemented) ,Ms Hardin,Dr Thompson,2024-01-25 10:52,2024-01-25 11:41,Elective,3,62
-148,2,Arthroscopic meniscal repair of knee,Ms White,Dr Howard,2024-01-24 10:31,2024-01-24 12:01,Elective,5,37
-149,8,Total Knee Replacement,Ms Moore,Dr Conrad,2024-01-25 09:17,2024-01-25 10:32,Emergency,5,59
-150,8,Hybrid Hip Replacement ( Cemented) ,Mr Luna,Dr Zimmerman,2024-01-28 13:23,2024-01-28 14:31,Emergency,3,25
+1,7,Epigastric Hernia Repair,Ms Glass,Dr Hunter,2024-01-26 08:06,2024-01-26 09:16,Elective,3,31
+2,6,Epigastric Hernia Repair,Ms Bridges,Dr May,2024-01-03 14:29,2024-01-03 15:23,Elective,4,86
+3,9,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms Bridges,Dr Hughes,2024-01-04 14:27,2024-01-04 15:17,Emergency,5,42
+4,4,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms Solis,Dr Schultz,2024-01-23 09:11,2024-01-23 09:52,Elective,1,66
+5,3,Epigastric Hernia Repair,Mr Davis,Dr Johnson,2024-01-09 15:44,2024-01-09 17:47,Emergency,1,39
+6,8,Haemorrhoidectomy ,Ms Glass,Dr Hughes,2024-01-18 12:10,2024-01-18 13:21,Elective,3,25
+7,7,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms Solis,Dr Johnson,2024-01-08 08:32,2024-01-08 10:22,Emergency,2,81
+8,5,Arthroscopic meniscal repair of knee,Mr Dean,Dr Vazquez,2024-01-13 15:49,2024-01-13 16:55,Emergency,5,72
+9,6,Cystoscopy + urethral dilation,Mr Turner,Dr Taylor,2024-01-29 17:57,2024-01-29 20:09,Emergency,1,24
+10,3,Haemorrhoidectomy ,Ms Bridges,Dr Bailey,2024-01-28 09:52,2024-01-28 11:01,Emergency,4,77
+11,1,Hybrid Hip Replacement ( Cemented) ,Mr Morris,Dr Reyes,2024-01-17 12:17,2024-01-17 15:08,Emergency,3,32
+12,8,Laparoscopic Cholecystectomy,Ms Glass,Dr Taylor,2024-01-10 15:25,2024-01-10 16:35,Elective,5,31
+13,10,Cystoscopy + urethral dilation,Mr Turner,Dr Leon,2024-01-28 13:05,2024-01-28 15:44,Elective,5,85
+14,8,Laparoscopic Cholecystectomy,Mr Williams,Dr Hughes,2024-01-30 08:00,2024-01-30 09:52,Emergency,3,48
+15,2,Hybrid Hip Replacement ( Cemented) ,Mr Barker,Dr Schultz,2024-01-02 12:06,2024-01-02 15:01,Elective,5,34
+16,3,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms Robinson,Dr Schultz,2024-01-05 16:06,2024-01-05 18:56,Emergency,2,87
+17,7,Epigastric Hernia Repair,Mr Frederick,Dr Hughes,2024-01-25 11:25,2024-01-25 13:14,Emergency,1,49
+18,1,Cystoscopy + urethral dilation,Ms Hernandez,Dr Johnson,2024-01-08 09:05,2024-01-08 11:01,Elective,1,25
+19,6,Hybrid Hip Replacement ( Cemented) ,Ms Robinson,Dr Johnson,2024-01-08 09:09,2024-01-08 09:47,Emergency,4,45
+20,10,Total Knee Replacement,Mr Dean,Dr Reyes,2024-01-18 10:15,2024-01-18 13:11,Emergency,4,42
+21,6,Haemorrhoidectomy ,Mr Gutierrez,Dr Dominguez,2024-01-04 09:39,2024-01-04 11:59,Elective,1,25
+22,4,Cystoscopy + urethral dilation,Mr Conley,Dr Taylor,2024-01-13 13:47,2024-01-13 14:44,Emergency,2,72
+23,4,Hybrid Hip Replacement ( Cemented) ,Mr Frederick,Dr Reyes,2024-01-06 12:45,2024-01-06 15:13,Elective,1,87
+24,4,Arthroscopic meniscal repair of knee,Mr Gutierrez,Dr Dominguez,2024-01-27 08:15,2024-01-27 09:08,Emergency,2,69
+25,7,Laparoscopic Cholecystectomy,Mr Beck,Dr May,2024-01-29 09:00,2024-01-29 10:12,Emergency,3,72
+26,3,Cystoscopy + urethral dilation,Mr Burns,Dr Johnson,2024-01-23 17:29,2024-01-23 20:03,Elective,5,87
+27,1,Total Knee Replacement,Ms Robinson,Dr Hughes,2024-01-02 13:21,2024-01-02 14:05,Elective,1,83
+28,10,Hybrid Hip Replacement ( Cemented) ,Mr Dean,Dr Lewis,2024-01-03 11:10,2024-01-03 11:57,Elective,5,49
+29,7,Epigastric Hernia Repair,Ms Glass,Dr Johnson,2024-01-19 08:40,2024-01-19 09:30,Emergency,2,51
+30,8,Epigastric Hernia Repair,Ms Solis,Dr Peterson,2024-01-13 10:14,2024-01-13 12:00,Emergency,5,90
+31,4,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Mr Turner,Dr Hughes,2024-01-04 09:15,2024-01-04 12:02,Emergency,1,49
+32,8,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms Bridges,Dr Reyes,2024-01-12 12:51,2024-01-12 14:01,Elective,5,56
+33,5,Hybrid Hip Replacement ( Cemented) ,Mr Williams,Dr Vazquez,2024-01-30 09:46,2024-01-30 10:50,Elective,3,54
+34,4,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms Robinson,Dr Dominguez,2024-01-20 11:35,2024-01-20 13:32,Emergency,1,29
+35,1,Laparoscopic Cholecystectomy,Mr Lopez,Dr Reyes,2024-01-21 15:13,2024-01-21 16:53,Elective,3,38
+36,7,Laparoscopic Cholecystectomy,Mr Williams,Dr Bailey,2024-01-24 15:32,2024-01-24 18:23,Elective,5,22
+37,9,Arthroscopic meniscal repair of knee,Mr Gutierrez,Dr Hunter,2024-01-27 14:18,2024-01-27 17:17,Elective,3,64
+38,4,Cystoscopy + urethral dilation,Mr Williams,Dr Leon,2024-01-29 08:40,2024-01-29 10:41,Emergency,5,37
+39,3,Haemorrhoidectomy ,Mr Miller,Dr Hunter,2024-01-30 12:02,2024-01-30 13:13,Emergency,4,49
+40,7,Laparoscopic Cholecystectomy,Mr Barker,Dr Johnson,2024-01-09 10:43,2024-01-09 11:40,Elective,4,62
+41,1,Cystoscopy + urethral dilation,Mr Beck,Dr Leon,2024-01-10 11:53,2024-01-10 13:20,Emergency,1,53
+42,9,Epigastric Hernia Repair,Mr Miller,Dr Bailey,2024-01-12 16:41,2024-01-12 18:53,Emergency,2,51
+43,6,Epigastric Hernia Repair,Mr Gutierrez,Dr Price,2024-01-02 09:51,2024-01-02 12:12,Elective,4,42
+44,1,Cystoscopy + urethral dilation,Mr Davis,Dr Lewis,2024-01-09 08:45,2024-01-09 11:06,Elective,3,58
+45,9,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Mr Gutierrez,Dr Leon,2024-01-22 10:07,2024-01-22 11:53,Emergency,3,88
+46,7,Arthroscopic meniscal repair of knee,Ms Bridges,Dr Price,2024-01-05 11:16,2024-01-05 13:33,Emergency,4,88
+47,5,Cystoscopy + urethral dilation,Mr Gutierrez,Dr Reyes,2024-01-27 08:00,2024-01-27 09:47,Emergency,4,74
+48,8,Arthroscopic meniscal repair of knee,Ms Solis,Dr May,2024-01-15 11:38,2024-01-15 14:18,Emergency,1,48
+49,4,Arthroscopic meniscal repair of knee,Mr Miller,Dr Peterson,2024-01-22 13:17,2024-01-22 14:44,Elective,4,27
+50,4,Haemorrhoidectomy ,Mr Barker,Dr Lewis,2024-01-15 15:04,2024-01-15 18:01,Elective,2,18
+51,4,Arthroscopic meniscal repair of knee,Ms Robinson,Dr Dominguez,2024-01-29 09:49,2024-01-29 12:07,Elective,5,49
+52,3,Total Knee Replacement,Ms Robinson,Dr Taylor,2024-01-30 10:04,2024-01-30 12:30,Emergency,4,82
+53,3,Total Knee Replacement,Mr Frederick,Dr May,2024-01-14 17:21,2024-01-14 19:45,Elective,3,84
+54,8,Hybrid Hip Replacement ( Cemented) ,Mr Burns,Dr Johnson,2024-01-16 12:04,2024-01-16 13:44,Emergency,3,58
+55,3,Arthroscopic meniscal repair of knee,Mr Dean,Dr Lewis,2024-01-29 17:13,2024-01-29 18:03,Elective,2,26
+56,9,Total Knee Replacement,Mr Gutierrez,Dr Peterson,2024-01-14 14:57,2024-01-14 16:51,Elective,4,67
+57,10,Haemorrhoidectomy ,Mr Barker,Dr Peterson,2024-01-29 17:58,2024-01-29 18:33,Emergency,3,67
+58,9,Cystoscopy + urethral dilation,Mr Barker,Dr Johnson,2024-01-28 15:09,2024-01-28 17:56,Emergency,4,80
+59,7,Arthroscopic meniscal repair of knee,Mr Frederick,Dr Hughes,2024-01-01 14:38,2024-01-01 16:34,Elective,5,86
+60,1,Hybrid Hip Replacement ( Cemented) ,Mr Gutierrez,Dr Hunter,2024-01-01 14:43,2024-01-01 17:37,Emergency,2,24
+61,4,Total Knee Replacement,Mr Lopez,Dr Leon,2024-01-09 14:28,2024-01-09 16:21,Emergency,3,71
+62,1,Laparoscopic Cholecystectomy,Mr Davis,Dr Johnson,2024-01-09 09:23,2024-01-09 11:53,Elective,1,21
+63,1,Arthroscopic meniscal repair of knee,Mr Dean,Dr Hunter,2024-01-31 12:13,2024-01-31 13:34,Emergency,1,90
+64,5,Epigastric Hernia Repair,Mr Duarte,Dr Price,2024-01-31 11:43,2024-01-31 14:12,Elective,2,57
+65,5,Haemorrhoidectomy ,Mr Beck,Dr Vazquez,2024-01-04 17:52,2024-01-04 18:28,Elective,1,49
+66,10,Laparoscopic Cholecystectomy,Mr Davis,Dr Taylor,2024-01-04 13:08,2024-01-04 14:08,Emergency,3,26
+67,7,Total Knee Replacement,Mr Williams,Dr Lewis,2024-01-17 13:49,2024-01-17 14:22,Emergency,4,37
+68,5,Total Knee Replacement,Mr Frederick,Dr Lewis,2024-01-14 11:00,2024-01-14 13:43,Emergency,3,49
+69,8,Cystoscopy + urethral dilation,Mr Frederick,Dr Price,2024-01-27 09:28,2024-01-27 11:09,Emergency,3,21
+70,8,Cystoscopy + urethral dilation,Mr Davis,Dr Reyes,2024-01-16 13:32,2024-01-16 14:48,Emergency,3,53
+71,1,Cystoscopy + urethral dilation,Ms Solis,Dr Johnson,2024-01-29 12:42,2024-01-29 15:34,Emergency,4,89
+72,8,Total Knee Replacement,Mr Miller,Dr Bailey,2024-01-25 12:06,2024-01-25 14:37,Emergency,2,69
+73,10,Epigastric Hernia Repair,Mr Barker,Dr Taylor,2024-01-23 12:09,2024-01-23 13:57,Emergency,4,88
+74,5,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms Glass,Dr Johnson,2024-01-11 14:00,2024-01-11 16:26,Elective,2,58
+75,4,Cystoscopy + urethral dilation,Mr Barker,Dr May,2024-01-04 17:08,2024-01-04 18:25,Emergency,1,42
+76,3,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Mr Miller,Dr Vazquez,2024-01-10 11:52,2024-01-10 13:54,Elective,3,23
+77,3,Total Knee Replacement,Mr Williams,Dr Schultz,2024-01-02 17:26,2024-01-02 19:10,Elective,5,54
+78,6,Arthroscopic meniscal repair of knee,Mr Sanders,Dr May,2024-01-16 16:10,2024-01-16 18:32,Emergency,1,26
+79,10,Laparoscopic Cholecystectomy,Mr Turner,Dr Hunter,2024-01-13 16:23,2024-01-13 17:11,Emergency,1,49
+80,10,Cystoscopy + urethral dilation,Ms Robinson,Dr Lewis,2024-01-04 17:31,2024-01-04 19:47,Emergency,4,56
+81,10,Laparoscopic Cholecystectomy,Ms Bridges,Dr Vazquez,2024-01-28 15:19,2024-01-28 17:07,Elective,2,45
+82,4,Arthroscopic meniscal repair of knee,Mr Morris,Dr Bailey,2024-01-09 09:23,2024-01-09 10:33,Elective,1,70
+83,1,Cystoscopy + urethral dilation,Mr Burns,Dr Vazquez,2024-01-15 16:01,2024-01-15 17:45,Emergency,4,27
+84,10,Cystoscopy + urethral dilation,Mr Gutierrez,Dr Bailey,2024-01-22 11:59,2024-01-22 13:36,Elective,2,52
+85,1,Arthroscopic meniscal repair of knee,Mr Burns,Dr Price,2024-01-27 10:25,2024-01-27 11:13,Emergency,4,33
+86,5,Total Knee Replacement,Mr Frederick,Dr Bailey,2024-01-15 13:11,2024-01-15 15:24,Elective,4,59
+87,2,Cystoscopy + urethral dilation,Ms Hernandez,Dr Price,2024-01-20 12:16,2024-01-20 12:52,Elective,3,23
+88,9,Total Knee Replacement,Ms Glass,Dr Hunter,2024-01-25 10:59,2024-01-25 13:29,Emergency,4,29
+89,6,Epigastric Hernia Repair,Mr Williams,Dr Schultz,2024-01-16 13:56,2024-01-16 16:10,Elective,3,70
+90,7,Laparoscopic Cholecystectomy,Mr Frederick,Dr Bailey,2024-01-23 16:27,2024-01-23 18:10,Emergency,3,59
+91,1,Total Knee Replacement,Mr Gutierrez,Dr Peterson,2024-01-04 14:53,2024-01-04 17:34,Elective,5,64
+92,1,Cystoscopy + urethral dilation,Ms Glass,Dr Taylor,2024-01-20 16:30,2024-01-20 18:53,Elective,3,74
+93,1,Cystoscopy + urethral dilation,Mr Duarte,Dr May,2024-01-29 16:16,2024-01-29 17:17,Elective,5,70
+94,8,Hybrid Hip Replacement ( Cemented) ,Mr Turner,Dr Dominguez,2024-01-03 11:50,2024-01-03 12:49,Emergency,5,52
+95,4,Total Knee Replacement,Mr Morris,Dr Hunter,2024-01-14 16:14,2024-01-14 18:44,Emergency,2,83
+96,5,Haemorrhoidectomy ,Mr Lopez,Dr Hughes,2024-01-24 10:19,2024-01-24 11:06,Emergency,1,54
+97,10,Total Knee Replacement,Mr Turner,Dr Dominguez,2024-01-24 13:05,2024-01-24 16:05,Emergency,3,60
+98,8,Epigastric Hernia Repair,Mr Conley,Dr Vazquez,2024-01-18 17:16,2024-01-18 19:22,Elective,5,67
+99,6,Total Knee Replacement,Mr Beck,Dr Lewis,2024-01-08 15:00,2024-01-08 15:41,Elective,4,22
+100,2,Total Knee Replacement,Mr Williams,Dr Taylor,2024-01-05 16:34,2024-01-05 18:28,Emergency,1,36
+101,8,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Mr Lopez,Dr Price,2024-01-14 10:38,2024-01-14 11:27,Emergency,1,60
+102,6,Total Knee Replacement,Mr Morris,Dr Peterson,2024-01-28 17:06,2024-01-28 19:13,Elective,2,54
+103,2,Hybrid Hip Replacement ( Cemented) ,Mr Frederick,Dr Hunter,2024-01-08 09:32,2024-01-08 11:53,Emergency,1,23
+104,6,Epigastric Hernia Repair,Mr Gutierrez,Dr Hunter,2024-01-11 08:57,2024-01-11 10:42,Elective,5,70
+105,3,Hybrid Hip Replacement ( Cemented) ,Ms Bridges,Dr Schultz,2024-01-19 11:04,2024-01-19 12:17,Emergency,5,48
+106,4,Total Knee Replacement,Ms Glass,Dr Dominguez,2024-01-16 17:57,2024-01-16 19:03,Emergency,1,77
+107,3,Hybrid Hip Replacement ( Cemented) ,Mr Frederick,Dr Leon,2024-01-29 12:54,2024-01-29 15:43,Emergency,4,50
+108,7,Total Knee Replacement,Mr Williams,Dr Johnson,2024-01-15 13:09,2024-01-15 14:29,Emergency,5,63
+109,1,Haemorrhoidectomy ,Ms Glass,Dr Peterson,2024-01-19 13:02,2024-01-19 14:47,Elective,5,81
+110,10,Epigastric Hernia Repair,Mr Dean,Dr Hall,2024-01-27 12:53,2024-01-27 14:21,Elective,5,50
+111,1,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Mr Frederick,Dr Peterson,2024-01-22 10:20,2024-01-22 11:14,Emergency,2,29
+112,7,Arthroscopic meniscal repair of knee,Mr Conley,Dr Hunter,2024-01-30 13:02,2024-01-30 14:55,Emergency,5,82
+113,5,Total Knee Replacement,Mr Burns,Dr Vazquez,2024-01-30 12:39,2024-01-30 13:51,Emergency,1,77
+114,4,Haemorrhoidectomy ,Mr Morris,Dr Leon,2024-01-31 09:17,2024-01-31 10:23,Elective,4,19
+115,8,Epigastric Hernia Repair,Ms Glass,Dr Price,2024-01-09 17:09,2024-01-09 18:10,Emergency,3,31
+116,1,Epigastric Hernia Repair,Ms Bridges,Dr Johnson,2024-01-22 11:59,2024-01-22 14:29,Elective,4,56
+117,3,Laparoscopic Cholecystectomy,Mr Sanders,Dr May,2024-01-21 14:58,2024-01-21 15:57,Emergency,1,30
+118,7,Total Knee Replacement,Mr Davis,Dr Hall,2024-01-08 17:10,2024-01-08 18:14,Emergency,5,37
+119,8,Haemorrhoidectomy ,Ms Glass,Dr Peterson,2024-01-29 15:04,2024-01-29 15:59,Emergency,2,74
+120,2,Epigastric Hernia Repair,Mr Morris,Dr Hughes,2024-01-15 12:01,2024-01-15 14:03,Emergency,1,68
+121,8,Hybrid Hip Replacement ( Cemented) ,Mr Conley,Dr Hall,2024-01-09 11:14,2024-01-09 12:15,Elective,1,60
+122,4,Hybrid Hip Replacement ( Cemented) ,Mr Morris,Dr Johnson,2024-01-08 10:08,2024-01-08 13:02,Elective,2,60
+123,5,Arthroscopic meniscal repair of knee,Mr Turner,Dr Taylor,2024-01-25 10:31,2024-01-25 11:01,Emergency,2,32
+124,1,Epigastric Hernia Repair,Mr Dean,Dr Price,2024-01-22 08:26,2024-01-22 09:29,Emergency,1,40
+125,7,Hybrid Hip Replacement ( Cemented) ,Ms Solis,Dr Dominguez,2024-01-09 08:53,2024-01-09 09:55,Emergency,3,83
+126,9,Cystoscopy + urethral dilation,Ms Bridges,Dr Peterson,2024-01-19 09:51,2024-01-19 12:16,Emergency,4,21
+127,7,Hybrid Hip Replacement ( Cemented) ,Mr Barker,Dr Vazquez,2024-01-02 16:10,2024-01-02 18:22,Emergency,1,28
+128,3,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Ms Bridges,Dr Hall,2024-01-11 10:31,2024-01-11 11:17,Emergency,4,85
+129,10,Haemorrhoidectomy ,Mr Williams,Dr Reyes,2024-01-10 15:44,2024-01-10 18:23,Elective,5,45
+130,7,Epigastric Hernia Repair,Mr Frederick,Dr Lewis,2024-01-14 15:42,2024-01-14 17:10,Emergency,1,58
+131,6,Arthroscopic meniscal repair of knee,Mr Barker,Dr Bailey,2024-01-14 13:20,2024-01-14 14:55,Elective,1,29
+132,3,Laparoscopic Cholecystectomy,Ms Hernandez,Dr Taylor,2024-01-14 09:38,2024-01-14 11:43,Emergency,1,70
+133,5,Abdominal Hysterectomy + Bilateral Salpingo-oophorectomy ,Mr Davis,Dr Bailey,2024-01-12 15:13,2024-01-12 15:56,Elective,2,79
+134,9,Epigastric Hernia Repair,Mr Williams,Dr Reyes,2024-01-08 09:50,2024-01-08 11:49,Emergency,5,46
+135,10,Laparoscopic Cholecystectomy,Ms Bridges,Dr Hughes,2024-01-26 15:19,2024-01-26 18:12,Emergency,1,41
+136,6,Laparoscopic Cholecystectomy,Mr Duarte,Dr Schultz,2024-01-09 13:16,2024-01-09 15:12,Elective,5,69
+137,2,Cystoscopy + urethral dilation,Mr Beck,Dr Lewis,2024-01-03 10:25,2024-01-03 11:02,Emergency,3,38
+138,10,Hybrid Hip Replacement ( Cemented) ,Mr Sanders,Dr Hunter,2024-01-12 13:19,2024-01-12 15:12,Elective,5,24
+139,8,Haemorrhoidectomy ,Mr Barker,Dr Price,2024-01-22 09:23,2024-01-22 11:02,Emergency,4,52
+140,6,Haemorrhoidectomy ,Mr Williams,Dr May,2024-01-07 16:44,2024-01-07 17:43,Emergency,5,57
+141,10,Laparoscopic Cholecystectomy,Mr Miller,Dr Johnson,2024-01-02 11:45,2024-01-02 13:56,Emergency,2,35
+142,6,Hybrid Hip Replacement ( Cemented) ,Mr Miller,Dr Dominguez,2024-01-25 12:21,2024-01-25 14:05,Emergency,2,34
+143,9,Epigastric Hernia Repair,Ms Solis,Dr Lewis,2024-01-13 17:05,2024-01-13 18:33,Elective,4,20
+144,10,Haemorrhoidectomy ,Ms Hernandez,Dr Lewis,2024-01-15 09:19,2024-01-15 11:09,Emergency,3,32
+145,3,Total Knee Replacement,Mr Davis,Dr Bailey,2024-01-13 08:21,2024-01-13 10:14,Emergency,1,49
+146,2,Haemorrhoidectomy ,Mr Burns,Dr Vazquez,2024-01-14 14:50,2024-01-14 17:34,Emergency,2,60
+147,9,Hybrid Hip Replacement ( Cemented) ,Ms Robinson,Dr Taylor,2024-01-25 10:52,2024-01-25 11:41,Elective,3,62
+148,2,Arthroscopic meniscal repair of knee,Ms Glass,Dr Johnson,2024-01-24 10:31,2024-01-24 12:01,Elective,5,37
+149,8,Total Knee Replacement,Ms Hernandez,Dr Reyes,2024-01-25 09:17,2024-01-25 10:32,Emergency,5,59
+150,8,Hybrid Hip Replacement ( Cemented) ,Mr Barker,Dr Dominguez,2024-01-28 13:23,2024-01-28 14:31,Emergency,3,25
